@@ -29,5 +29,13 @@ namespace IoT_Portal
             }
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            DBConnector test = new DBConnector();
+            test.OpenDB();
+            test.SendReadQuery()
+            test.CloseDB();
+        }
     }
 }
