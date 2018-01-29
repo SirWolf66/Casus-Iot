@@ -37,7 +37,7 @@
             // 
             // LoginButton
             // 
-            this.LoginButton.Location = new System.Drawing.Point(77, 145);
+            this.LoginButton.Location = new System.Drawing.Point(76, 145);
             this.LoginButton.Name = "LoginButton";
             this.LoginButton.Size = new System.Drawing.Size(75, 23);
             this.LoginButton.TabIndex = 0;
@@ -92,7 +92,7 @@
             this.Controls.Add(this.passwordBox);
             this.Controls.Add(this.LoginButton);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "IoT Portal";
             this.ResumeLayout(false);
             this.PerformLayout();
 

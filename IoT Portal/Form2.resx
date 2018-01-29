@@ -117,20 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Plattegrond als JPEG" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Plattegrond als JPEG.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="demo plattegrond1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\demo plattegrond1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="demo plattegrond11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\demo plattegrond11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="demo plattegrond" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\demo plattegrond.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="power-bi-add-filter-reading-view" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\power-bi-add-filter-reading-view.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>

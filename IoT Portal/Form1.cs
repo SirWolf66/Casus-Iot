@@ -17,6 +17,15 @@ namespace IoT_Portal
 
         public Form1()
         {
+            usernameList.Add("Kevin");
+            usernameList.Add("Mark");
+            usernameList.Add("Gilbert");
+            usernameList.Add("Root");
+
+            passwordList.Add("Deketelaere");
+            passwordList.Add("Qwerty!23456");
+            passwordList.Add("VerySecure123");
+            passwordList.Add("R00t");
             InitializeComponent();
         }
 
